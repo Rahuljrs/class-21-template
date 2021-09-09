@@ -1,0 +1,30 @@
+img{
+    max-width: 100%;
+}
+.bt{
+    font-size: 1rem;
+}
+/* .slider{}
+.slider-i img{
+    width: 100%;
+} */
+.table-section{
+    background-color:#f8f9fa;
+    margin: 5px 0px;
+}
+.stretch-link-use{
+    background-color: #f8f9fa;
+}
+.caption {
+   
+    margin-bottom: 20rem;
+    
+}
+.caption h5 {
+    font-size: 28px;
+    font-weight: 400;
+}
+
+.header{
+    background-color: #f8f9fa;
+}
